@@ -1,5 +1,9 @@
 <h1 align="center">Coronavirus-Detection-using-Chest-X-Ray</h1>
 
+<p align=center>
+  <img alt="logo" src="https://cdn-images-1.medium.com/max/1800/0*KhCD7xAfd-iXj4SX">
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/shaunak09vb/Coronavirus-Detection-using-Chest-X-Ray?include_prereleases&sort=semver)](https://github.com/shaunak09vb/Coronavirus-Detection-using-Chest-X-Ray/releases/)
 ![Python](https://img.shields.io/badge/python-v3.8.3+-blue.svg)
