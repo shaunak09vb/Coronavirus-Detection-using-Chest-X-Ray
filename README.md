@@ -41,7 +41,7 @@ The web-application will start on your local server which can be viewed in your 
 
 ## Blog Link
 
-If you wish discover in detail, the steps taken by me for the implementation of the project. You can read my blog on <a href=''>Medium</a>.
+If you wish discover in detail, the steps taken by me for the implementation of the project. You can read my blog on <a href='https://medium.com/geekculture/covid-19-detection-by-analyzing-chest-x-ray-images-i-e693ec21a3cc'>Medium</a>.
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
